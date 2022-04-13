@@ -20,33 +20,6 @@ mkdir src/services
 
 touch .env
 cat << EOF >> .gitignore
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@hgrigoryan 
-github
-/
-gitignore
-Public
-Code
-Pull requests
-236
-Actions
-Security
-Insights
-gitignore/Node.gitignore
-@yangshun
-yangshun Add Docusaurus files to Node.gitignore
-Latest commit 1d4e709 on Dec 23, 2021
- History
- 66 contributors
-@stuartpb@shiftkey@SimonSiefke@TennyZhuang@venatoria@ro31337@Richienb@noinkling@melonmanchan@kachick@gouthamve@jucrouzet
-130 lines (97 sloc)  2 KB
-   
 # Logs
 logs
 *.log
